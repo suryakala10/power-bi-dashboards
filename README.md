@@ -1,28 +1,53 @@
-# Sales Dashboard - Power BI
+# Power BI Dashboards - Sales & Leads
 
-## 📌 Project Overview
-This repository contains a Power BI dashboard built to analyze and visualize sales data.  
-The main objective is to track **sales performance, revenue trends, product/category contributions, and regional analysis**.
+## 📌 Overview
+This repository contains two interactive Power BI dashboards:  
+1. **Sales Dashboard** → Focused on analyzing revenue, product/category performance, and regional sales.  
+2. **Leads Dashboard** → Focused on tracking lead generation, conversion, and customer/property insights.  
 
-## 📊 Dashboard Objectives
+---
+
+## 📊 1. Sales Dashboard (`SALES.pbix`)
+
+### Objectives
 - Monitor total sales and revenue over time  
 - Identify top-selling products and categories  
 - Compare sales performance by region  
 - Provide insights into customer and order trends  
 
-## 🔑 Key Features
+### Key Features
 - KPI Cards for Total Sales, Profit, Quantity Sold  
 - Line charts for Sales Trends  
 - Bar/Column charts for Product/Category performance  
 - Regional Sales Map  
 - Interactive slicers for filtering  
 
-## 🗂 Dataset
-- Source: (sales.csv)  
-- Key Fields: Date, Product, Region, Sales, Quantity  
-
-## 🚀 How to Use
-1. Download the file: **`SALES.pbix`**  
-2. Open it with **Microsoft Power BI Desktop**  
+### How to Use
+1. Download **`SALES.pbix`**  
+2. Open with **Microsoft Power BI Desktop**  
 3. Explore the interactive dashboard  
+
+---
+
+## 📊 2. Leads Dashboard (`leads.pbix`)
+
+### Objectives
+- Monitor total number of leads over time  
+- Identify top lead sources (referrals, campaigns, digital platforms)  
+- Analyze conversion rates and sales performance  
+- Compare customer demographics and property types  
+- Provide insights for improving lead quality and sales strategy  
+
+### Key Features
+- KPI Cards for Total Leads, Converted Leads, and Conversion Rate  
+- Trend charts for Leads over time  
+- Bar/Column charts for Lead Source and Property distribution  
+- Regional insights (if available)  
+- Interactive slicers for filtering  
+
+### How to Use
+1. Download **`leads.pbix`**  
+2. Open with **Microsoft Power BI Desktop**  
+3. Explore the interactive dashboard  
+
 
